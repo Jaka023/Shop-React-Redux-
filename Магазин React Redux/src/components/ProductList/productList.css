@@ -1,0 +1,9 @@
+.productList {
+   margin-top: 50px;
+   position: relative;
+}
+.productListItems {
+   display: flex;
+   gap: 20px;
+   flex-wrap: wrap;
+}

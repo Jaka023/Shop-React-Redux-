@@ -1,0 +1,23 @@
+.sidebar {
+   background-color: white;
+   margin-top: 50px;
+   height: fit-content;
+   /*position: fixed;*/
+   width: 320px;
+   border-radius: 5px;
+   padding: 20px;
+   box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+}
+.searchInput {
+   margin: 15px 0 20px 0;
+}
+.selectCategory {
+   margin-bottom: 20px;
+}
+.selectPrice {
+   /*margin: 20px;*/
+}
+.selectPriceValues {
+   display: flex;
+   justify-content: space-between;
+}
